@@ -279,6 +279,7 @@ public class MediCareMain {
             default:
                 System.out.println("Invalid choice.");
         }
+        //7 commit
     }
 //Sort by Surname or id
     private static void sortPatients(Scanner scanner, PatientManager patientManager) {
