@@ -12,5 +12,5 @@ public enum PatientCategory {
         INPATIENT,
     OUTPATIENT,
     EMERGENCY
-    
+    //8commit
 }
