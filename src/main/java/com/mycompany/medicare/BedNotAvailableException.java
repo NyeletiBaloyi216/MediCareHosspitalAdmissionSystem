@@ -14,3 +14,4 @@ public BedNotAvailableException(String message) {
         super (message);
     }
 }
+//3rd commit
