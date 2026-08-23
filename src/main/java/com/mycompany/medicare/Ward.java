@@ -39,6 +39,7 @@ public class Ward {
             }
         }
     }
+    //11 commit
 // searches for bednumber
     private Bed findBed(String bedNumber) {
         if (bedNumber == null || bedNumber.trim().isEmpty()) {
