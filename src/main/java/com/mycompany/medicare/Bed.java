@@ -61,3 +61,4 @@ public class Bed {
         return bedNumber + " [AVAILABLE]";
     }
 }
+//2nd commit
