@@ -16,7 +16,7 @@ package com.mycompany.medicare;
     public Inpatient(String patientId, String firstName, String lastName,
                      int age, String gender, String medicalCondition,
                      String wardNumber) {
-
+//commit 5
         super(patientId, firstName, lastName, age, gender,
               medicalCondition, PatientCategory.INPATIENT);
 // validates  ward number
