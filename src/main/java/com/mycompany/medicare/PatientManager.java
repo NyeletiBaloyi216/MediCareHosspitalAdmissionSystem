@@ -14,6 +14,7 @@ import java.util.List;
  * @author baloy
  */
 public class PatientManager {
+    //9 commit
     // stores all registered patients
     private final List<MediCare> patients;
 
