@@ -97,6 +97,7 @@ public class MediCare {
         }
         this.gender = gender.trim();
     }
+    //6 commit
 
     public void setMedicalCondition(String medicalCondition) {
         if (medicalCondition == null || medicalCondition.trim().isEmpty()) {
